@@ -1,0 +1,5 @@
+RASPBERRY_PI_IP = "192.168.0.48"
+RASPBERRY_PI_USERNAME = "pi"
+PRIVATE_KEY_PATH = "~/.ssh/id_rsa"
+LOCAL_PICTURE_DIR = "raspberry_pictures"
+IMAGE_SIZE = (400, 400)
